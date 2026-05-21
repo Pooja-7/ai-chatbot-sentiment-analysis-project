@@ -1,0 +1,4 @@
+botbuilder-core
+aiohttp
+azure-ai-textanalytics
+azure-core
